@@ -1,0 +1,9 @@
+{
+  "name": "polyfill",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "polyfill-library": "^3.104.0"
+  }
+}
